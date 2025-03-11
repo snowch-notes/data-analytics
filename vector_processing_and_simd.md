@@ -1,3 +1,7 @@
+---
+date: 2025-03-11
+---
+
 **Vector Processing and SIMD: Foundational Principles**
 
 * **SIMD (Single Instruction, Multiple Data):**
